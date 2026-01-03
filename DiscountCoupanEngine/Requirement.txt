@@ -1,0 +1,11 @@
+Functional requirements:
+1.  We can add new coupan at runtime.
+2.  Both cart level and product level discount.
+3.  Support multiple coupan types:
+    (seasonal offer, loyality discount, banking discount etc).
+4.  Support both flat and percentage discount.
+5.  one coupan can't be applied on top of other coupan.
+6.  Thread safe
+
+
+
